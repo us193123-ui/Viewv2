@@ -17,7 +17,6 @@ public class GameManager {
                     Boolean result=winCheck(meLegend,compLegend);
                     BattleScene.winLoseScene(result);
                     if(result!=null)nockDown.play();
-                    meLegend.shotSound.stop();
                     if(result==null)enemyTurn(compLegend,meLegend,cLUI,mLUI);//勝利後相手のターンにいってしまうため
                 }
         );
@@ -54,7 +53,6 @@ public class GameManager {
                 BattleScene.buttonOnOff(false,meLegend);
                 System.out.println(Amount+"ダメージ"+ meLegend.getHp());
                 Boolean result=winCheck(meLegend,compLegend);
-                compLegend.shotSound.stop();
                 if(result!=null)nockDown.play();
                 BattleScene.winLoseScene(result);
             });

@@ -10,65 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29cc9c5d-52a9-40cf-bc47-bca5d24e7440" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Viewv2_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Viewv2_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Viewv2_jar/Viewv2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/BattleList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/BattleScene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/BgmPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/GameManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/Legend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/LegendUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/Lifeline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/LoseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/LoseScene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/MyApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/Rev.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/SceneManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/SelectList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/SelectScene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/StartScene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/WinList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/WinScene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/Wraith.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/background/APEX.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/background/Edistrict.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/background/champiton.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/background/lose.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/background/select.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/background/エッジ.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/legends/lifeline/lifelineme.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/legends/lifeline/lifelineselect enemy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/legends/lifeline/lifelineselect.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/legends/rev/reveme.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/legends/rev/revenemy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/legends/rev/revselect.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/legends/wraith/mewraith.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/legends/wraith/wraithenemy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/legends/wraith/wraithselect.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/01 Apex Legends Main Theme.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/02 Preparing The Arena.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/03 Choose Your Legend.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/05 Victory &amp; Lobby Redux.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/apex-legends-knockdown-sound-effect_0xqJePf.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/dead-sound.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/machinegun.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/rev回復.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/shotgun.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/ステータス治療1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/ビープ音4.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/ライフラ回復.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/レイス回復.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/決定ボタンを押す10.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/決定ボタンを押す17.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/落ち込む.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/sounds/重機関銃を乱射1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Viewv2/startList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
